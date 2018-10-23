@@ -22,7 +22,7 @@
       </div>
     </header>
 
-    <div class="container">
+    <div class="container content_wrap">
       @yield('content')
     </div>    
   </body>
